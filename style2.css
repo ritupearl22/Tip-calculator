@@ -8,14 +8,14 @@ body{
     background-color: #ffffff;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 52%;
     transform: translateX(-50%) translateY(-50%);
     border-radius: 20px;
 }
 h1{
     position: absolute;
     left: 50%;
-    top: -60px;
+    top: -56px;
     width: 300px;
     transform: translateX(-50%);
     background-color: #ff851b;
